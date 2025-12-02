@@ -1,7 +1,6 @@
 import customtkinter as ctk
-from tkinter import Canvas, PhotoImage, Label
+from tkinter import PhotoImage, Label
 import time
-import threading
 
 # Fake password
 CORRECT_PASSWORD = "192919"
@@ -11,9 +10,10 @@ ctk.set_appearance_mode("dark")
 ctk.set_default_color_theme("green")
 
 app = ctk.CTk()
-app.geometry("1200x800")
 app.title("T.A.S.C - Classified Access Terminal")
-app.resizable(False, False)
+app.geometry("1000x700")           # Perfect size
+app.resizable(True, True)           # Minimize/Maximize buttons enabled
+app.minsize(900, 650)
 
 # Background image (optional)
 try:
@@ -23,61 +23,55 @@ try:
 except:
     app.configure(bg="#000000")
 
-# MAIN FRAME — width aur height yahan constructor mein daal rahe hain (purane version ke liye)
-frame = ctk.CTkFrame(app, corner_radius=20, fg_color="#0a0a0a", border_width=3, border_color="#00ff00",
-                     width=520, height=620)   # ← yahan daala
-frame.place(relx=0.5, rely=0.5, anchor="center")         # ← yahan se width/height hata diya
-frame.pack_propagate(False)  # ← ye line zaroori hai taaki size fixed rahe
+# Main Frame — width & height ab sirf constructor mein
+main_frame = ctk.CTkFrame(
+    master=app,
+    width=560,
+    height=680,
+    corner_radius=20,
+    fg_color="#0a0a0a",
+    border_width=4,
+    border_color="#00ff00"
+)
+main_frame.place(relx=0.5, rely=0.5, anchor="center")
+main_frame.pack_propagate(False)   # Yeh zaroori hai fixed size ke liye
 
-# Title & text
-title = ctk.CTkLabel(frame, text="T.A.S.C", font=("Orbitron", 78, "bold"), text_color="#00ff41")
-title.pack(pady=(50, 5))
+# ==================== SAB CONTENT YAHAN ====================
 
-subtitle = ctk.CTkLabel(frame, text="Tactical Advanced Strategic Command", 
-                       font=("Courier New", 16), text_color="#00ff00")
-subtitle.pack(pady=(0, 30))
+title = ctk.CTkLabel(main_frame, text="T.A.S.C", font=("Orbitron", 80, "bold"), text_color="#00ff41")
+title.pack(pady=(40, 5))
 
-welcome = ctk.CTkLabel(frame, text="» WELCOME TO T.A.S.C «", 
-                      font=("Consolas", 20, "bold"), text_color="#39ff14")
+subtitle = ctk.CTkLabel(main_frame, text="Tactical Advanced Strategic Command",
+                        font=("Courier New", 16), text_color="#00ff00")
+subtitle.pack(pady=(0, 25))
+
+welcome = ctk.CTkLabel(main_frame, text="» WELCOME TO T.A.S.C «",
+                       font=("Consolas", 20, "bold"), text_color="#39ff14")
 welcome.pack(pady=10)
 
-# Login fields
-ctk.CTkLabel(frame, text="AGENT ID", font=("Courier", 16), text_color="#00ff00").pack(pady=(30,5))
-username_entry = ctk.CTkEntry(frame, placeholder_text="Enter username...", width=320, height=50,
-                             font=("Courier", 14), corner_radius=10)
+ctk.CTkLabel(main_frame, text="AGENT ID", font=("Courier", 16, "bold"), text_color="#00ff00").pack(pady=(30,5))
+username_entry = ctk.CTkEntry(main_frame, placeholder_text="Enter username...", width=340, height=50,
+                              font=("Courier", 14), corner_radius=12)
 username_entry.pack(pady=5)
 
-ctk.CTkLabel(frame, text="PASSCODE", font=("Courier", 16), text_color="#00ff00").pack(pady=(20,5))
-password_entry = ctk.CTkEntry(frame, placeholder_text="      ", width=320, height=50, show="•",
-                             font=("Courier", 14), corner_radius=10)
+ctk.CTkLabel(main_frame, text="PASSCODE", font=("Courier", 16, "bold"), text_color="#00ff00").pack(pady=(20,5))
+password_entry = ctk.CTkEntry(main_frame, placeholder_text="      ", width=340, height=50, show="•",
+                              font=("Courier", 14), corner_radius=12)
 password_entry.pack(pady=5)
 
-status_label = ctk.CTkLabel(frame, text="", font=("Courier", 14), text_color="#ff0000")
-status_label.pack(pady=20)
+status_label = ctk.CTkLabel(main_frame, text="", font=("Courier", 16), text_color="#ff0000")
+status_label.pack(pady=15)
 
-# Access granted screen
-def show_access_granted():
-    for widget in frame.winfo_children():
-        widget.destroy()
-    
-    ctk.CTkLabel(frame, text="ACCESS GRANTED", font=("Orbitron", 56, "bold"), text_color="#00ff00").pack(pady=100)
-    ctk.CTkLabel(frame, text="CLASSIFIED LEVEL: OMEGA", font=("Courier", 20), text_color="#00ff41").pack(pady=20)
-    ctk.CTkLabel(frame, text="Agent authenticated.", font=("Courier", 16), text_color="#39ff14").pack(pady=10)
-
-    terminal = ctk.CTkTextbox(frame, width=460, height=180, font=("Courier", 12), text_color="#00ff41")
-    terminal.pack(pady=30)
-    lines = [
-        "> Neural interface: ONLINE",
-        "> Satellite uplink: SECURE",
-        "> Ghost protocol: ACTIVATED",
-        "> Loading mission briefing...",
-        "> Target acquired.",
-        "\n[ SYSTEM READY ]"
-    ]
-    for line in lines:
-        terminal.insert("end", line + "\n")
-        app.update()
-        time.sleep(0.7)
+# Shake animation
+def shake():
+    def move(count=10, distance=15):
+        if count == 0:
+            main_frame.place(relx=0.5, rely=0.5, anchor="center")
+            return
+        offset = distance if count % 2 == 0 else -distance
+        main_frame.place(relx=0.5, rely=0.5, anchor="center", x=offset)
+        app.after(50, lambda: move(count-1, distance))
+    move()
 
 # Login function
 def login():
@@ -85,35 +79,68 @@ def login():
         status_label.configure(text="ACCESS GRANTED", text_color="#00ff00")
         app.after(1500, show_access_granted)
     else:
-        status_label.configure(text="ACCESS DENIED", text_color="#ff0000")
-        shake(frame, 6, 15)
-
-# Shake effect
-def shake(widget, n=6, d=15):
-    if n == 0:
-        widget.place(relx=0.5, rely=0.5, anchor="center")
-        return
-    x = d if n % 2 == 0 else -d
-    widget.place(relx=0.5, rely=0.5, anchor="center", x=x)
-    app.after(60, lambda: shake(widget, n-1, d))
+        status_label.configure(text="ACCESS DENIED - INTRUDER ALERT", text_color="#ff0000")
+        shake()
 
 # Login button
-login_btn = ctk.CTkButton(frame, text=">> EXECUTE LOGIN <<", width=320, height=55,
-                         font=("Courier", 18, "bold"), corner_radius=12,
-                         fg_color="#002200", hover_color="#003300",
-                         border_width=3, border_color="#00ff00",
-                         command=login)
-login_btn.pack(pady=40)
+login_btn = ctk.CTkButton(main_frame, text=">> EXECUTE LOGIN <<", width=340, height=60,
+                          font=("Courier", 20, "bold"), corner_radius=15,
+                          fg_color="#001100", hover_color="#003300",
+                          border_width=4, border_color="#00ff00",
+                          command=login)
+login_btn.pack(pady=30)
+
+# Enter key se login
+password_entry.bind("<Return>", lambda e: login())
+username_entry.bind("<Return>", lambda e: login())
+
+# Access Granted Screen
+def show_access_granted():
+    for widget in main_frame.winfo_children():
+        widget.destroy()
+
+    ctk.CTkLabel(main_frame, text="ACCESS GRANTED", font=("Orbitron", 60, "bold"), text_color="#00ff00").pack(pady=80)
+    ctk.CTkLabel(main_frame, text="CLASSIFIED LEVEL: OMEGA", font=("Courier", 22), text_color="#00ff41").pack(pady=20)
+    ctk.CTkLabel(main_frame, text="Agent authenticated. Welcome back, Commander.",
+                 font=("Courier", 16), text_color="#39ff14").pack(pady=10)
+
+    terminal = ctk.CTkTextbox(main_frame, width=500, height=200, font=("Courier", 13), text_color="#00ff41",
+                        fg_color="#000000", corner_radius=15)
+    terminal.pack(pady=30)
+
+    lines = [
+        "> Neural interface: ONLINE",
+        "> Satellite uplink: SECURE",
+        "> Ghost protocol: ACTIVATED",
+        "> Loading mission briefing...",
+        "> Target acquired.",
+        "\n[ SYSTEM READY - AWAITING ORDERS ]"
+    ]
+    def type_line(i=0):
+        if i < len(lines):
+            terminal.insert("end", lines[i] + "\n")
+            app.update()
+            app.after(800, lambda: type_line(i+1))
+    type_line()
 
 # Startup messages
 def startup():
-    msgs = ["Initializing quantum core...", "Bypassing NSA backdoor...", "Engaging stealth mode...", "Ready."]
-    for msg in msgs:
-        status_label.configure(text=msg, text_color="#00ff41")
-        app.update()
-        time.sleep(1.2)
-    status_label.configure(text="Enter credentials.")
+    msgs = [
+        "Initializing quantum core...",
+        "Bypassing NSA backdoor...",
+        "Engaging stealth mode...",
+        "System online. Awaiting credentials..."
+    ]
+    def show(i=0):
+        if i < len(msgs):
+            status_label.configure(text=msgs[i], text_color="#00ff41")
+            app.after(1400, lambda: show(i+1))
+        else:
+            status_label.configure(text="Enter credentials to continue.", text_color="#00ff41")
+    show()
 
-app.after(500, startup)
+# Run startup & focus
+app.after(800, startup)
+app.after(100, lambda: password_entry.focus())
 
 app.mainloop()
