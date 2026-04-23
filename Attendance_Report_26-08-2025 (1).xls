@@ -1,0 +1,383 @@
+Lakshmi Narain College of Technology and Science : Total Attendance Percentage  0% To 101%  Date :26-Aug-2025 To 26-Aug-2025
+                                                                    <table cellpadding="0" cellspacing="0" border="0" width="100%" style="padding: 1px;">
+                                                                
+                                                                    <tr>
+                                                                        <td>
+                                                                            [
+                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_lblClassName">B.Tech.-C.S.E.-A.I.M.L. 1st Semester</span>
+                                                                            ]
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>
+                                                                            
+                                                                                    <table width="100%" cellpadding="0" cellspacing="0" border="0" class="BorderTD" style="text-align: left;
+                                                                                        padding: 10px 0px;">
+                                                                                
+                                                                                    <tr>
+                                                                                        <td>
+                                                                                            
+                                                                                            [
+                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_lblSectionName">B-09</span>
+                                                                                            ]
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                    <tr align="left">
+                                                                                        <td>
+                                                                                            <div>
+	<table class="p_mGrid" cellspacing="0" rules="all" border="1" id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord" style="width:100%;border-collapse:collapse;padding: 5px;">
+		<tr>
+			<th scope="col">Sr.</th><th scope="col">EnrolmentNo</th><th scope="col">ClassRollNo</th><th scope="col">StudentName</th><th scope="col">Father_Mobile</th><th scope="col">MENTOR LIBRARY : BT-211-CH</th><th scope="col">MENTOR LIBRARY : BT-211-CA</th><th scope="col">MENTOR LIBRARY : BT-211%</th><th scope="col">Total-CH</th><th scope="col">Total-CA</th><th scope="col">Overall%</th>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl02_lblSr" style="display:inline-block;width:25px;">1</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-002</td><td>0587</td><td>NAMRATA RANA</td><td>9301789348</td><td>1</td><td>0</td><td>0.00%</td><td>1</td><td>0</td><td>0.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl03_lblSr" style="display:inline-block;width:25px;">2</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-004</td><td>0549</td><td>HIMANSHU CHOUHAN</td><td>9303139209</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl04_lblSr" style="display:inline-block;width:25px;">3</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-009</td><td>0557</td><td>JEWEL GABRIEL PAUL</td><td>9826121126</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl05_lblSr" style="display:inline-block;width:25px;">4</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-010</td><td>0547</td><td>HARSHIT KUMAR PATEL</td><td>6264777945</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl06_lblSr" style="display:inline-block;width:25px;">5</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-011</td><td>0585</td><td>MUSKAN SARAF</td><td>9131550592</td><td>1</td><td>0</td><td>0.00%</td><td>1</td><td>0</td><td>0.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl07_lblSr" style="display:inline-block;width:25px;">6</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-016</td><td>0550</td><td>HIMANSHU PARMAR</td><td>8305770827</td><td>1</td><td>0</td><td>0.00%</td><td>1</td><td>0</td><td>0.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl08_lblSr" style="display:inline-block;width:25px;">7</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-023</td><td>0565</td><td>KOUSHAL RANE</td><td>9685353357</td><td>1</td><td>0</td><td>0.00%</td><td>1</td><td>0</td><td>0.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl09_lblSr" style="display:inline-block;width:25px;">8</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-025</td><td>0545</td><td>GRESHIKA GURJAR</td><td>9826880267</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl10_lblSr" style="display:inline-block;width:25px;">9</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-028</td><td>0551</td><td>HIMANSHU TIRGUDE</td><td>8959418730</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl11_lblSr" style="display:inline-block;width:25px;">10</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-029</td><td>0562</td><td>KHUSHEEKA BISEN</td><td>9131748522</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl12_lblSr" style="display:inline-block;width:25px;">11</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-032</td><td>0598</td><td>OM SURYAWANSHI</td><td>6260857993</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl13_lblSr" style="display:inline-block;width:25px;">12</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-036</td><td>0559</td><td>KANISHKA BIJOLIYA</td><td>9926474002</td><td>1</td><td>0</td><td>0.00%</td><td>1</td><td>0</td><td>0.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl14_lblSr" style="display:inline-block;width:25px;">13</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-037</td><td>0546</td><td>HARSHAL SONI</td><td>9479500931</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl15_lblSr" style="display:inline-block;width:25px;">14</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-039</td><td>0577</td><td>MADHURI</td><td>9243443967</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl16_lblSr" style="display:inline-block;width:25px;">15</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-041</td><td>0548</td><td>HARSHITA YADAV</td><td>9009553300</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl17_lblSr" style="display:inline-block;width:25px;">16</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-049</td><td>0571</td><td>KRISHNA SAHU</td><td>9165982592</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl18_lblSr" style="display:inline-block;width:25px;">17</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-051</td><td>0602</td><td>PIYUSH</td><td>9826611843</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl19_lblSr" style="display:inline-block;width:25px;">18</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-052</td><td>0543</td><td>GAURAV JHA</td><td>9793705324</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl20_lblSr" style="display:inline-block;width:25px;">19</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-054</td><td>0594</td><td>NIRBHAY CHOUHAN</td><td>9165208841</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl21_lblSr" style="display:inline-block;width:25px;">20</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-055</td><td>0544</td><td>GAURI RAI</td><td>7000790567</td><td>1</td><td>0</td><td>0.00%</td><td>1</td><td>0</td><td>0.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl22_lblSr" style="display:inline-block;width:25px;">21</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-059</td><td>0573</td><td>KUSHAL GUPTA</td><td>7415976325</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl23_lblSr" style="display:inline-block;width:25px;">22</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-068</td><td>0584</td><td>MONIKA MEHTA</td><td>7488840657</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl24_lblSr" style="display:inline-block;width:25px;">23</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-069</td><td>0603</td><td>POUSHALI PARMAR</td><td>9406831907</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl25_lblSr" style="display:inline-block;width:25px;">24</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-073</td><td>0563</td><td>KHUSHI KUMARI</td><td>7631498003</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl26_lblSr" style="display:inline-block;width:25px;">25</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-078</td><td>0583</td><td>MOHIT SHARMA</td><td>8359836431</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl27_lblSr" style="display:inline-block;width:25px;">26</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-081</td><td>0554</td><td>JATIN VERMA</td><td>9669814866</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl28_lblSr" style="display:inline-block;width:25px;">27</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-084</td><td>0600</td><td>PALAK GIRI</td><td>6264334648</td><td>1</td><td>0</td><td>0.00%</td><td>1</td><td>0</td><td>0.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl29_lblSr" style="display:inline-block;width:25px;">28</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-085</td><td>0574</td><td>LAKSHYA AGRAWAL</td><td>9926320163</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl30_lblSr" style="display:inline-block;width:25px;">29</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-089</td><td>0589</td><td>NIDHI KUMARI</td><td>8789492147</td><td>1</td><td>0</td><td>0.00%</td><td>1</td><td>0</td><td>0.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl31_lblSr" style="display:inline-block;width:25px;">30</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-093</td><td>0588</td><td>NANDNI YADAV</td><td>7869927748</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl32_lblSr" style="display:inline-block;width:25px;">31</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-094</td><td>0539</td><td>DHANYA SHARMA</td><td>9131411965</td><td>1</td><td>0</td><td>0.00%</td><td>1</td><td>0</td><td>0.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl33_lblSr" style="display:inline-block;width:25px;">32</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-108</td><td>0561</td><td>KARTIK SAKRE</td><td>9425601230</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl34_lblSr" style="display:inline-block;width:25px;">33</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-115</td><td>0556</td><td>JEESHAN ALI</td><td>8318488323</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl35_lblSr" style="display:inline-block;width:25px;">34</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-118</td><td>0604</td><td>PRACHI DESHMUKH</td><td>9340757506</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl36_lblSr" style="display:inline-block;width:25px;">35</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-122</td><td>0575</td><td>LALI BANKEY</td><td>9926386984</td><td>1</td><td>0</td><td>0.00%</td><td>1</td><td>0</td><td>0.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl37_lblSr" style="display:inline-block;width:25px;">36</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-135</td><td>0541</td><td>DHRUV TRIPATHI</td><td>9584061018</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl38_lblSr" style="display:inline-block;width:25px;">37</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-137</td><td>0593</td><td>NIKITA CHOUDHARY</td><td>9827658609</td><td>1</td><td>0</td><td>0.00%</td><td>1</td><td>0</td><td>0.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl39_lblSr" style="display:inline-block;width:25px;">38</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-142</td><td>0558</td><td>JITENDRA KUMAR MALVIYA</td><td>8815159441</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl40_lblSr" style="display:inline-block;width:25px;">39</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-143</td><td>0564</td><td>KHUSHI KUMARI</td><td>7000781778</td><td>1</td><td>0</td><td>0.00%</td><td>1</td><td>0</td><td>0.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl41_lblSr" style="display:inline-block;width:25px;">40</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-144</td><td>0591</td><td>NIHARIKA GUPTA</td><td>7000311525</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl42_lblSr" style="display:inline-block;width:25px;">41</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-152</td><td>0560</td><td>KARTIK SAHU</td><td>9755561812</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl43_lblSr" style="display:inline-block;width:25px;">42</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-153</td><td>0567</td><td>KRISH DANGI</td><td>9301323157</td><td>1</td><td>0</td><td>0.00%</td><td>1</td><td>0</td><td>0.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl44_lblSr" style="display:inline-block;width:25px;">43</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-154</td><td>0555</td><td>JAYANSH SAKRE</td><td>7000831407</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl45_lblSr" style="display:inline-block;width:25px;">44</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-161</td><td>0578</td><td>MAHAK PIPRAJ</td><td>8718992794</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl46_lblSr" style="display:inline-block;width:25px;">45</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-162</td><td>0553</td><td>JATIN GAUTAM</td><td>9424943188</td><td>1</td><td>0</td><td>0.00%</td><td>1</td><td>0</td><td>0.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl47_lblSr" style="display:inline-block;width:25px;">46</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-175</td><td>0569</td><td>KRISHNA GURJAR</td><td>7000951112</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl48_lblSr" style="display:inline-block;width:25px;">47</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-177</td><td>0597</td><td>OJASHAWANI GOUR</td><td>9285258593</td><td>1</td><td>0</td><td>0.00%</td><td>1</td><td>0</td><td>0.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl49_lblSr" style="display:inline-block;width:25px;">48</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-181</td><td>0605</td><td>PRACHI TRIVEDI</td><td>9039752551</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl50_lblSr" style="display:inline-block;width:25px;">49</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-E11</td><td>0581</td><td>MANYA UPADHYAY</td><td>6263045966</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl51_lblSr" style="display:inline-block;width:25px;">50</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-E14</td><td>0595</td><td>NISHANT SHRIVASTAVA</td><td>9993407580</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl52_lblSr" style="display:inline-block;width:25px;">51</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-E16</td><td>0590</td><td>NIDHISH JAIN</td><td>9406685400</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl53_lblSr" style="display:inline-block;width:25px;">52</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-E18</td><td>0596</td><td>NITIN GUPTA</td><td>7470656139</td><td>1</td><td>0</td><td>0.00%</td><td>1</td><td>0</td><td>0.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl54_lblSr" style="display:inline-block;width:25px;">53</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-E19</td><td>0570</td><td>KRISHNA RAGHUVANSHI</td><td>9425089399</td><td>1</td><td>0</td><td>0.00%</td><td>1</td><td>0</td><td>0.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl55_lblSr" style="display:inline-block;width:25px;">54</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-E21</td><td>0599</td><td>OM TIWARI</td><td>9993712572</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl56_lblSr" style="display:inline-block;width:25px;">55</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-F01</td><td>0592</td><td>NIKHIL RAJ SINGH</td><td>8770398609</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl57_lblSr" style="display:inline-block;width:25px;">56</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-F02</td><td>0540</td><td>DHEERAJ SABLE</td><td>7987458361</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl58_lblSr" style="display:inline-block;width:25px;">57</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-F03</td><td>0582</td><td>MOHAMMD YUSUF</td><td>9981085654</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl59_lblSr" style="display:inline-block;width:25px;">58</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-F06</td><td>0579</td><td>MANISH RAJAWAT</td><td>9753430515</td><td>1</td><td>0</td><td>0.00%</td><td>1</td><td>0</td><td>0.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl60_lblSr" style="display:inline-block;width:25px;">59</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-F07</td><td>0568</td><td>KRISH JAIN</td><td>9826345565</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl61_lblSr" style="display:inline-block;width:25px;">60</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-F08</td><td>0601</td><td>PANKAJ SINGH LODHI</td><td>6266924613</td><td>1</td><td>0</td><td>0.00%</td><td>1</td><td>0</td><td>0.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl62_lblSr" style="display:inline-block;width:25px;">61</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-P04</td><td>0552</td><td>ISHAN JAIN</td><td>7389840404</td><td>1</td><td>0</td><td>0.00%</td><td>1</td><td>0</td><td>0.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl63_lblSr" style="display:inline-block;width:25px;">62</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-P09</td><td>0572</td><td>KRISHNA TYAGI</td><td>9826866010</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl64_lblSr" style="display:inline-block;width:25px;">63</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-P14</td><td>0566</td><td>KRATIKA GOVINDJIWALA</td><td>7470748233</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl65_lblSr" style="display:inline-block;width:25px;">64</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-P15</td><td>0606</td><td>PRAKHAR SHRIVASTAVA</td><td>9303240051</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl66_lblSr" style="display:inline-block;width:25px;">65</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-PM01</td><td>0542</td><td>GARG SHARMA</td><td>9906136022</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl67_lblSr" style="display:inline-block;width:25px;">66</span>
+                                                                                                            
+                                                                                                        </td><td>57-25-PM02</td><td>0576</td><td>LATA DEVI</td><td>8828477423</td><td>1</td><td>0</td><td>0.00%</td><td>1</td><td>0</td><td>0.00%</td>
+		</tr><tr>
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl68_lblSr" style="display:inline-block;width:25px;">67</span>
+                                                                                                            
+                                                                                                        </td><td>58-25-098</td><td>0586</td><td>NAMAN PATIDAR</td><td>9826629238</td><td>1</td><td>1</td><td>100.00%</td><td>1</td><td>1</td><td>100.00%</td>
+		</tr><tr class="alt">
+			<td>
+                                                                                                            <span id="ctl00_ctl00_ContentPlaceHolder1_cp2_tabStudentAttendanceReport_tabAttendaceCountAndShortAttendance_reptAllClass_ctl01_reptAllSection_ctl01_grdStudentRecord_ctl69_lblSr" style="display:inline-block;width:25px;">68</span>
+                                                                                                            
+                                                                                                        </td><td>58-25-099</td><td>0580</td><td>MANSI AWADHIYA</td><td>9424387605</td><td>1</td><td>0</td><td>0.00%</td><td>1</td><td>0</td><td>0.00%</td>
+		</tr>
+	</table>
+</div>
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                
+                                                                                    </table>
+                                                                                
+                                                                        </td>
+                                                                    </tr>
+                                                                
+                                                                    </table>
+                                                                
